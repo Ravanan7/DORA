@@ -13,7 +13,7 @@
 
 <div align="center">
   <p align="center">
-<img src=https://www.linkpicture.com/q/.jpg>
+<img src=https://www.linkpicture.com/q/jks.jpg>
 </p>
 
   <p align="center">
@@ -22,7 +22,7 @@
 </div>
 <p align="center">
   <a href="https://instagram.com/jishnu_ks_123"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/918281370025"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/918075862144"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 </a>
 <p align="center">
