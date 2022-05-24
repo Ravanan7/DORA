@@ -38,7 +38,7 @@ Project created by <a href="https://github.com/Ravanan7">Ravanan7</a> to make it
 
   ### SIMPLE METHOD
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ravanan7/APARNAMWOL-V2.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ravanan7/DORA.git)
 
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KalippanSer/KALIPPANSER-OR?v=1)
