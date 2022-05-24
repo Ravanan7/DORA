@@ -13,7 +13,6 @@
 
 <div align="center">
   <p align="center">
-<img src=https://www.linkpicture.com/q/jks.jpg>
 </p>
 
   <p align="center">
