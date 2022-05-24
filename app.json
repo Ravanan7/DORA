@@ -19,7 +19,7 @@
          "YT_PASSWORD": {
             "description": "PASSWORD IS small letter kalippan. Cheriya aksharathil kalippan ennu adikuga.",
             "required": true
-             'value": "kalippan"
+             "value": "kalippan"
         },
         "LANGUAGE": {
             "description": "Bot language.English => en",
