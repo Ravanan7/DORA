@@ -18,8 +18,9 @@
  ​            ​"required"​: ​false 
  ​        }, 
  ​         ​"YT_PASSWORD"​: { 
- ​            ​"description"​: ​"​PASSWORD IS small letter kalippan. Cheriya aksharathil kalippan ennu adikuga.​"​, 
+ ​            ​"description"​: ​"​PASSWORD IS small letter kalippan. Cheriya aksharathil jishnu ennu adikuga.​"​, 
  ​            ​"required"​: ​true 
+               "value": "kalippan"
  ​        }, 
  ​        ​"LANGUAGE"​: { 
  ​            ​"description"​: ​"​Bot language.English => en​"​, 
@@ -49,7 +50,7 @@
  ​        ​"ALIVE_BUTTON"​: { 
  ​            ​"description"​: ​"​Set the alive message two name​"​, 
  ​            ​"required"​: ​true​, 
- ​            ​"value"​: ​"​DORA /KALIPPANSER​" 
+ ​            ​"value"​: ​"​DORA /JISHNU" 
  ​        }, 
  ​        ​"INBO_BLOCK"​: { 
  ​            ​"description"​: ​"​Inbox Blocking System. True koduthal ningalude pml vann chila bad words upoayogikunnavare bot block aakum block aakendengil false kodukuka​"​, 
@@ -88,17 +89,18 @@
  ​        }, 
  ​        ​"TAG_REPLY"​: { 
  ​            ​"description"​: ​"​Enter jid of your number so that you get a audio reply when metioned example - 91xxxxxxxxxx@s.whatsapp.net - for india​"​, 
- ​            ​"required"​: ​false​           
+ ​            ​"required"​: ​false 
+               "value"; 918075862144@s.whatsapp.net
  ​        }, 
  ​        ​"BGM_DURATION"​: { 
- ​            ​"description"​: ​"​FUNY BGM DURATION  codded by SAIDALI​"​, 
+ ​            ​"description"​: ​"​FUNY BGM DURATION  codded by jishnu"​, 
  ​            ​"required"​: ​false​, 
  ​            ​"value"​: ​"​39999600​" 
  ​        }, 
  ​        ​"AUTO_BİO"​: { 
  ​            ​"description"​: ​"​ Set true for auto date, time in biography.​"​, 
  ​            ​"required"​: ​true​, 
- ​            ​"value"​: ​"​false​"​         
+ ​            ​"value"​: ​"true"​         
  ​        }, 
  ​         ​"BAD_WORDS"​: { 
  ​            ​"description"​: ​"​enter the word you dont allow in your group ​"​, 
@@ -113,7 +115,7 @@
  ​        ​"CHAT_BOT"​: { 
  ​            ​"description"​: ​"​Turn your account into a chatbot! .amruser on/off​"​, 
  ​            ​"required"​: ​true​, 
- ​            ​"value"​: ​"​false​" 
+ ​            ​"value"​: ​"true" 
  ​        }, 
  ​        ​"FIX_ERROR"​: { 
  ​            ​"description"​: ​"​ Set true if you don't want to see error log.​"​, 
@@ -123,7 +125,7 @@
  ​        ​"AUDIO_CAPTION"​: { 
  ​            ​"description"​: ​"​ Set true if you don't want to see error log.​"​, 
  ​            ​"required"​: ​false​, 
- ​            ​"value"​: ​"​[KALIPPAN]​\n​ INSTA: _MIDHUN_x3__​\n​ THIS BOT OWNER KALIPPAN SER​\n​ BOT CREATERZ KALIPPSAN-MIDHUN🎶​\n​🎶🎶🎶​" 
+ ​            ​"value"​: ​"​[JISHNU]​\n​ INSTA: jishnu_ks_123\n​ THIS BOT OWNER JISHNU SER​\n​ BOT CREATERZ JISHNU🎶​\n​🎶🎶🎶​" 
  ​        }, 
  ​        ​"SEND_READ"​: { 
  ​            ​"description"​: ​"​Write true if you want to throw seen.​"​, 
@@ -131,9 +133,9 @@
  ​            ​"value"​: ​"​true​" 
  ​        }, 
  ​        ​"ALL_CAPTION"​: { 
- ​            ​"description"​: ​"​Caption for images and videos generated by pinky bot​"​, 
+ ​            ​"description"​: ​"​Caption for images and videos generated by DORA bot​"​, 
  ​            ​"required"​: ​false​, 
- ​            ​"value"​: ​"​MADE BY ᮘKͥᴀͭʟᷤɪᴘͫᴘͤᴀɴ ➣Sᴇʀ᭄↹🥀​" 
+ ​            ​"value"​: ​"​MADE BY ᮘjishnu ➣Sᴇʀ᭄↹🥀​" 
  ​        }, 
  ​        ​"HEROKU"​: { 
  ​            ​"description"​: ​"​If it is running in Heroku, type true.​"​, 
@@ -182,7 +184,7 @@
  ​        ​"BOT_NAME"​: { 
  ​            ​"description"​: ​"​heading for .list command reply​"​, 
  ​            ​"required"​: ​true​, 
- ​            ​"value"​: ​"​༺═══❃᭓DORA᭄↹🎀🪄❃═══༻​" 
+ ​            ​"value": "༺═══❃᭓DORA᭄↹🎀🪄❃═══༻" 
  ​        }, 
  ​        ​"WORK_TYPE"​: { 
  ​            ​"description"​: ​"​DORA    Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.​"​, 
@@ -206,12 +208,12 @@
  ​        ​"OWNER_NUMBER"​: { 
  ​            ​"description"​: ​"​Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 91 for indian ) Also don't enter space & + on the number ( example : 91996132xxxx for indian ). ( This number will be shown on some commands )​"​, 
  ​            ​"required"​: ​false​, 
- ​            ​"value"​: ​"​wa.me/918281370025​" 
+ ​            ​"value"​: ​"​wa.me/918075862144​" 
  ​        }, 
  ​        ​"NUMBER"​: { 
  ​            ​"description"​: ​"​Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 91 for indian ) Also don't enter space & + on the number ( example : 91996132xxxx for indian ). ( This number will be shown on some commands )​"​, 
  ​            ​"required"​: ​false​, 
- ​            ​"value"​: ​"​wa.me/918281370025​" 
+ ​            "value": ​"wa.me/918075862144" 
  ​        }, 
  ​        ​"DEPLOYER"​: { 
  ​            ​"description"​: ​"​enter your name here​"​, 
